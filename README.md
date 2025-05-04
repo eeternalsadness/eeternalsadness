@@ -2,7 +2,7 @@
 
 ## 🤓 About Me
 
-DevOps Engineer with a love for automation. I either come up with creative or convoluted and overengineered solutions to problems.
+DevOps Engineer with a love for automation. I come up with either creative or convoluted and overengineered solutions to problems.
 
 ## 📈 GitHub Stats
 
