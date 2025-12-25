@@ -6,6 +6,10 @@
 
 Site Reliability Engineer with a love for automation. I come up with either creative or convoluted and overengineered solutions to problems.
 
+## ➡️ My Career History
+
+Mechanical Engineer => Mechatronics Engineer => Software Engineer => DevOps Engineer => Site Reliability Engineer/Platform Engineer => ???
+
 ## 🧑‍💻 What I'm Working On
 
 - Manage my own Kubernetes cluster in my homelab and experiment with different technologies ([repo](https://github.com/eeternalsadness/homelab))
